@@ -139,7 +139,6 @@ public class VarastoTest {
         double saldo = varasto.getSaldo();
         double tilaJaljella = varasto.paljonkoMahtuu();
         Boolean palaute = tuloste.equals("saldo = " + saldo + ", vielä tilaa " + tilaJaljella);
-        palaute = kana;
         
         assertTrue(palaute);
     }
