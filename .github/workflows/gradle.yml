@@ -22,8 +22,6 @@ jobs:
       run: chmod +x gradlew
     - name: Test with Gradle
       run: ./gradlew test
-    - name: Test with checkStyle
-      run: ./gradlew checkstyleMain
     - name: Code coverage rapost
       run: ./gradlew jacocoTestReport
     - name: Data to codecov
