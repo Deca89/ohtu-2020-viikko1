@@ -11,17 +11,5 @@ public class Main {
 
         System.out.println("Luonnin jälkeen:");
         System.out.println("Mehuvarasto: " + mehua);
-        int yksi = 2;
-        yksi = 23;
-        yksi = 23;
-        yksi = 23;
-        yksi = 23;
-        yksi = 23;
-        yksi = 23;
-        yksi = 23;
-        yksi = 23;
-        yksi = 23;
-        yksi = 23;
-        yksi = 23;
     }
 }
